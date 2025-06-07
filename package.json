@@ -1,5 +1,5 @@
 {
-  "name": "playground",
+  "name": "nodeplayground",
   "version": "1.0.0",
   "scripts": {
     "test": "node ./scripts test",
