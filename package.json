@@ -4,6 +4,7 @@
   "scripts": {
     "test": "node ./scripts test",
     "load": "node ./scripts load",
-    "clean": "node ./scripts clean"
+    "clean": "node ./scripts clean",
+    "dev": "node ./scripts dev"
   }
 }
