@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node ./scripts test",
+    "load": "node ./scripts load",
+    "clean": "node ./scripts clean"
+  }
+}
